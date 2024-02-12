@@ -41542,10 +41542,10 @@ return A.J($async$DZ,r)},
 L(a){var s=this,r=null,q=A.ce(A.ev(!0,s.d,B.Ev,r,r,B.yj,r,!1,r,r,r,B.aB,r),r,300),p=A.ce(A.ev(!0,s.w,B.mz,r,r,r,r,!0,r,r,r,B.aB,r),r,300),o=A.ce(A.ev(!0,s.e,B.Et,r,r,r,r,!1,r,r,r,B.aB,r),r,300),n=A.ce(A.ev(!0,s.f,B.Eu,r,r,r,r,!1,r,r,r,B.aB,r),r,300),m=A.ce(A.ev(!0,s.x,B.Es,r,r,r,r,!1,r,r,r,B.aB,r),r,300),l=A.ce(A.ev(!0,s.r,B.Er,r,r,r,r,!1,r,r,r,B.aB,r),r,300),k=A.qN(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
 return A.hM(A.b([q,p,o,n,m,l,B.y1,A.qM(new A.bS(B.cc,A.bD("Sign-in",r,r,r,r,A.fp().$3$color$fontSize$fontWeight(B.lG,20,B.a9),r,r),r),new A.ake(s,a),k),B.by,A.Mj(B.RD,B.q,r,!0,r,r,new A.akf(a),r,r)],t.p),B.aF,B.aA,B.aO)}}
 A.ake.prototype={
-$0(){var s=null,r=A.ib("^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@gmail.com",!0,!1),q=this.a,p=q.d,o=p.a.a,n=r.b.test(o.toLowerCase())
-if(n){r=this.b.a5(t.Pu)
+$0(){var s=null,r=A.ib("^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@bitmesra.ac.in",!0,!1),q=this.a,p=q.d,o=p.a.a,n=r.b.test(o.toLowerCase())
+if(!n){r=this.b.a5(t.Pu)
 r.toString
-r.f.kP(A.mw(s,s,s,s,s,B.a0,s,A.bD("Enter student mail id",s,s,s,s,s,s,s),B.bp,B.bW,s,s,s,s,s,s,s,s,s))}if(q.e.a.a.length!==0&&p.a.a.length!==0&&q.f.a.a.length!==0&&q.r.a.a.length!==0&&!n)q.uD()},
+r.f.kP(A.mw(s,s,s,s,s,B.a0,s,A.bD("Enter student mail id",s,s,s,s,s,s,s),B.bp,B.bW,s,s,s,s,s,s,s,s,s))}if(q.e.a.a.length!==0&&p.a.a.length!==0&&q.f.a.a.length!==0&&q.r.a.a.length!==0&&n)q.uD()},
 $S:0}
 A.akf.prototype={
 $0(){A.yb(this.a,"/login",t.X)},
